@@ -11,5 +11,6 @@ Git ignore will be used in the project when I only want to update a certain part
 
 # Explain how confidential information will be stored
 Sensitive data will be deleted if it is not needed. 
-Confidential dat will be stored securely. 
-No data will be sent through texts(Whatsapp etc.)
+Sensitive data will not be kept/stored on github 
+Connections for my projects will be secured
+
